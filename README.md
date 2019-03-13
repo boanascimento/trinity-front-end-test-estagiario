@@ -1,8 +1,12 @@
 Trinity - Teste para desenvolvimento frontend - Estágio
 ======================
 
-## Objetivo
-Converter o seguinte design para HTML/CSS/JS.
+## Objetivo 1
+- Converter o seguinte design para HTML/CSS/JS.
+
+## Objetivo 2
+- Criar um serviço que consome a API [News API](https://newsapi.org/docs/endpoints/top-headlines), para listagem das notícias.
+- Criar componente que utiliza o serviço criado e apresenta a lista de notícias com as informações: título, conteudo, data de publicação e imagem.
 
 ### Tela principal
 ![Xfive Front-end Test Thumbnails](xfive-front-end-test-thumbs.jpg)
